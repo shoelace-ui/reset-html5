@@ -1,0 +1,17 @@
+/*
+ * reset-html5 opaque mixin
+ * @mixin
+ */
+
+reset-html5()
+  article, aside, canvas, details, figcaption,
+  figure, footer, header, hgroup, menu, nav,
+  section, summary, main
+    reset-box-model()
+    display: block
+  audio, canvas, video
+    display inline-block
+    *display inline
+    *zoom 1
+  audio:not([controls]),[hidden]
+    display none

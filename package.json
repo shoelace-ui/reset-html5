@@ -1,0 +1,24 @@
+{
+  "name": "shoelace-ui-reset-html5",
+  "version": "0.0.1",
+  "description": "reset-html5 opaque mixin",
+  "main": "index.styl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shoelace-ui/reset-html5"
+  },
+  "keywords": [
+    "reset",
+    "html5",
+    "shoelace-ui"
+  ],
+  "author": "Brannon Lucas <brannonlucas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoelace-ui/reset-html5/issues"
+  },
+  "homepage": "https://github.com/shoelace-ui/reset-html5"
+}
